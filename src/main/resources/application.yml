@@ -1,0 +1,22 @@
+spring:
+  security:
+    user:
+      name: user
+      password: 1234
+  jpa:
+    open-in-view: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: true
+    properties:
+      hibernate.format_sql: true
+      dialect: org.hibernate.dialect.PostgreSQLDialect
+  datasource:
+    url: jdbc:postgresql://127.0.0.1:5432/blog?useSSL=false&serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+    username: recordhyo
+    password: admin
+  logging:
+    level:
+      org.hibernate.SQL: debug
