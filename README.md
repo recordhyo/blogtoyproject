@@ -4,13 +4,12 @@
 </br></br></br>
 
 ### 순서
-1. 개요
-2. 사용된 기술
-3. 요구사항 분석
-4. DB 설계
-5. 흐름도
-7. 실행결과
-8. 회고
+[1. 개요](#개요) <br/>
+[2. 사용된 기술](#사용된-기술) <br/>
+[3. 요구사항 분석](#요구사항-분석) <br/>
+[4. 화면 및 API 명세서](#화면-및-API-명세서) <br/>
+[5. 실행결과](#실행결과) <br/>
+[6. 회고](#회고)
 
 </br>
 
@@ -58,12 +57,7 @@
 
 
 
-
-## DB 설계
-
-</br></br></br>
-
-## 흐름도
+## 화면 및 API 명세서
 
 
 </br></br></br>
@@ -82,15 +76,20 @@ https://github.com/recordhyo/blogtoyproject/assets/126046238/8a3d82d6-c0a3-4ca6-
 
 https://github.com/recordhyo/blogtoyproject/assets/126046238/143c8982-3f61-405d-ab60-a3a199c02bd4
 
+<p style="display:inline-block;">수정 전</p>
 <img src="https://github.com/recordhyo/RECL/assets/126046238/991e6e9e-b687-4d68-90e7-a35bfdf17610"/>
+<p style="display:inline-block;">수정 후</p>
 <img src="https://github.com/recordhyo/RECL/assets/126046238/27b2d010-87ed-4bc7-9494-1f794dbc5b04"/>
-<br/>
+
+
+<br/><br/>
 
 
 **글 삭제**
 
 https://github.com/recordhyo/blogtoyproject/assets/126046238/0c8132be-fc4c-4cec-9bde-b1a4c6bd800b
 
+<p style="display:inline-block;">삭제 후</p>
 <img src="https://github.com/recordhyo/RECL/assets/126046238/6f5435a1-0524-44bc-9edf-007121e1d437"/>
 
 <br/>
