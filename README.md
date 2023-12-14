@@ -43,16 +43,13 @@
 
 ## 요구사항 분석
 ✔ 로그인 
-+ 첫 화면
 + 가입되지 않은 아이디로 로그인 시도할 때 "존재하지 않는 아이디입니다.
 + 아이디와 비밀번호 일치하지 않을 때 "ID와 비밀번호를 다시 확인해주세요"
-+ 로그인 성공 시 "로그인 성공" -> 메뉴 화면으로 이동
++ 로그인 성공 시 "로그인 성공", JWT 발급 -> 홈으로 이동
 </br>
 
 ✔ 회원가입
-+ 비어있거나 형식에 맞지 않을 때 "다시 입력해주세요"
-+ 이미 존재하는 이메일일 때 "이미 존재하는 이메일입니다."
-+ 회원가입 성공 시 "회원가입 성공" -> 로그인 화면으로 이동
++ 회원가입 성공 시 "회원가입 성공", DB에 user 데이터 삽입 -> 로그인 화면으로 이동
 </br>
 
 ✔ 블로그 게시판 작성 
@@ -63,32 +60,41 @@
 
 
 ## DB 설계
+
 </br></br></br>
 
 ## 흐름도
+
+
 </br></br></br>
 
 
 
 ## 실행결과
 ### ✔ 실행화면
-**로그인 및 회원가입**
+**회원가입**
 
-**메뉴** 
+https://github.com/recordhyo/blogtoyproject/assets/126046238/8a3d82d6-c0a3-4ca6-add2-d40816045388
 
-**강의실 별 시간표**
+<br/>
+
+**글 수정**
+
+https://github.com/recordhyo/blogtoyproject/assets/126046238/143c8982-3f61-405d-ab60-a3a199c02bd4
+
+<img src="https://github.com/recordhyo/RECL/assets/126046238/991e6e9e-b687-4d68-90e7-a35bfdf17610"/>
+<img src="https://github.com/recordhyo/RECL/assets/126046238/27b2d010-87ed-4bc7-9494-1f794dbc5b04"/>
+<br/>
 
 
-**빈 강의실 보기**
+**글 삭제**
 
+https://github.com/recordhyo/blogtoyproject/assets/126046238/0c8132be-fc4c-4cec-9bde-b1a4c6bd800b
 
-**강의실 대여 신청**
+<img src="https://github.com/recordhyo/RECL/assets/126046238/6f5435a1-0524-44bc-9edf-007121e1d437"/>
 
-**마이페이지 및 대여 신청취소**
+<br/>
 
-
-### ✔ 실행영상 
-</br>
 </br></br></br>
 
 ## 회고
