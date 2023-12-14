@@ -59,6 +59,7 @@
 
 ## 화면 및 API 명세서
 
+<img src="https://github.com/recordhyo/RECL/assets/126046238/18dc871e-6a99-489a-9084-5f47f2cad8b4"/>
 
 </br></br></br>
 
@@ -97,8 +98,10 @@ https://github.com/recordhyo/blogtoyproject/assets/126046238/0c8132be-fc4c-4cec-
 </br></br></br>
 
 ## 회고
-+ 웹 계층구조와 MVC의 관계를 학습할 수 있었음
-+ RESTful API의 특징과 원칙을 배울 수 있었고 API 명세서 및 문서화의 필요성을 느낌
++ 스프링부트의 순환 참조 에러갈 발생해 빈 의존 주입에 대해 학습할 수 있었습니다.
++ 웹 계층구조와 MVC의 관계를 학습할 수 있었습니다.
++ RESTful API의 특징과 원칙을 배울 수 있었고 API 명세서 및 문서화의 필요성을 느꼈습니다.
++ 댓글기능과 배포까지 진행하고 싶습니다. 
 
 
 
